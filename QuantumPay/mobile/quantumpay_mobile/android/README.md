@@ -1,0 +1,1 @@
+Run `flutter create .` inside this directory's parent (`quantumpay_mobile`) to generate the standard Android project files.

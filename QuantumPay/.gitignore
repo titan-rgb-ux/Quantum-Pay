@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.db
+.venv/
+.env
+.idea/
+.vscode/
+*.log
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+pubspec.lock

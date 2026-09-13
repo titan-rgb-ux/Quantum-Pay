@@ -1,0 +1,1 @@
+Run `flutter create .` inside this directory's parent (`quantumpay_mobile`) on a supported macOS environment to generate iOS project files.
